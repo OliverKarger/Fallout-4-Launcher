@@ -11,4 +11,8 @@
     <RootNamespace>OliverKarger.F4L</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\F4L.Common\F4L.Common.csproj" />
+  </ItemGroup>
+
 </Project>

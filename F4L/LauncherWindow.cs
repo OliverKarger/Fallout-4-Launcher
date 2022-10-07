@@ -5,6 +5,7 @@ namespace OliverKarger.F4L
         public LauncherWindow()
         {
             InitializeComponent();
+            var game = new F4Game();
         }
     }
 }
